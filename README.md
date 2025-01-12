@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Denise. I'm currently self-exploring the world of cloud engineering.
+
 <!--
 **WeihsuanHuang/WeihsuanHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
